@@ -1,2 +1,4 @@
 # hello-world
-Jusy one repository
+Hi everyone!
+
+My name is Miras! That is my first app.
